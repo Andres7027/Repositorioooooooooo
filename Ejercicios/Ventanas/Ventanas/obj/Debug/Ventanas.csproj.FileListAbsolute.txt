@@ -1,0 +1,11 @@
+C:\Users\RODR-PC\source\repos\Ventanas\Ventanas\bin\Debug\Ventanas.exe.config
+C:\Users\RODR-PC\source\repos\Ventanas\Ventanas\bin\Debug\Ventanas.exe
+C:\Users\RODR-PC\source\repos\Ventanas\Ventanas\bin\Debug\Ventanas.pdb
+C:\Users\RODR-PC\source\repos\Ventanas\Ventanas\obj\Debug\Ventanas.csproj.AssemblyReference.cache
+C:\Users\RODR-PC\source\repos\Ventanas\Ventanas\obj\Debug\Ventanas.csproj.SuggestedBindingRedirects.cache
+C:\Users\RODR-PC\source\repos\Ventanas\Ventanas\obj\Debug\Ventanas.Properties.Resources.resources
+C:\Users\RODR-PC\source\repos\Ventanas\Ventanas\obj\Debug\Ventanas.csproj.GenerateResource.cache
+C:\Users\RODR-PC\source\repos\Ventanas\Ventanas\obj\Debug\Ventanas.csproj.CoreCompileInputs.cache
+C:\Users\RODR-PC\source\repos\Ventanas\Ventanas\obj\Debug\Ventanas.exe
+C:\Users\RODR-PC\source\repos\Ventanas\Ventanas\obj\Debug\Ventanas.pdb
+C:\Users\RODR-PC\source\repos\Ventanas\Ventanas\obj\Debug\Ventanas.Form1.resources
