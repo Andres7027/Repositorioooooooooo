@@ -1,0 +1,22 @@
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica3\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica3\PingPong\bin\Debug\PingPong.exe
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica3\PingPong\bin\Debug\PingPong.pdb
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica3\PingPong\obj\Debug\PingPong.csproj.AssemblyReference.cache
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica3\PingPong\obj\Debug\PingPong.Form1.resources
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica3\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica3\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica3\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica3\PingPong\obj\Debug\PingPong.exe
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica3\PingPong\obj\Debug\PingPong.pdb
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica3\PingPong\obj\Debug\PingPong.PingPongGame.resources
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica3\PingPong\bin\Debug\PingPong.exe.config
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica3\PingPong\bin\Debug\PingPong.exe
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica3\PingPong\bin\Debug\PingPong.pdb
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica3\PingPong\obj\Debug\PingPong.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica3\PingPong\obj\Debug\PingPong.Form1.resources
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica3\PingPong\obj\Debug\PingPong.PingPongGame.resources
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica3\PingPong\obj\Debug\PingPong.Properties.Resources.resources
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica3\PingPong\obj\Debug\PingPong.csproj.GenerateResource.cache
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica3\PingPong\obj\Debug\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica3\PingPong\obj\Debug\PingPong.exe
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica3\PingPong\obj\Debug\PingPong.pdb
