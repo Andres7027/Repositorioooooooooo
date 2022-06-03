@@ -1,0 +1,20 @@
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica1\Battleship\bin\Debug\Batlleship.exe.config
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica1\Battleship\bin\Debug\Batlleship.exe
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica1\Battleship\bin\Debug\Batlleship.pdb
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica1\Battleship\obj\Debug\Battleship.csproj.AssemblyReference.cache
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica1\Battleship\obj\Debug\Batlleship.Form1.resources
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica1\Battleship\obj\Debug\Batlleship.Properties.Resources.resources
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica1\Battleship\obj\Debug\Battleship.csproj.GenerateResource.cache
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica1\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica1\Battleship\obj\Debug\Batlleship.exe
+C:\Users\Ronald\OneDrive\Documentos\Tareas ITESCAM\4to Semestre\Tópicos Avanzados de Programación\TAP-4A-2021\Prácticas2P\Practica1\Battleship\obj\Debug\Batlleship.pdb
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica1\Battleship\bin\Debug\Batlleship.exe.config
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica1\Battleship\bin\Debug\Batlleship.exe
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica1\Battleship\bin\Debug\Batlleship.pdb
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica1\Battleship\obj\Debug\Battleship.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica1\Battleship\obj\Debug\Batlleship.Form1.resources
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica1\Battleship\obj\Debug\Batlleship.Properties.Resources.resources
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica1\Battleship\obj\Debug\Battleship.csproj.GenerateResource.cache
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica1\Battleship\obj\Debug\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica1\Battleship\obj\Debug\Batlleship.exe
+C:\Users\andre\Documents\6\Tópicos Avanzados de Programación\Parcial_2\Prácticas\Practica1\Battleship\obj\Debug\Batlleship.pdb
